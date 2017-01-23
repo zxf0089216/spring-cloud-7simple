@@ -29,14 +29,16 @@
 			</snapshots>
 			<id>public</id>
 			<name>Public Repositories</name>
-			<url>http://10.0.12.207:8081/nexus/content/groups/public/</url>
+			<!-- <url>http://10.0.12.207:8081/nexus/content/groups/public/</url> -->
+			<url>http://121.43.114.178:9002/nexus/content/groups/public/</url>
 		</repository>
 	</repositories>
 	<pluginRepositories>
 		<pluginRepository>
 			<id>public</id>
 			<name>Public Repositories</name>
-			<url>http://10.0.12.207:8081/nexus/content/groups/public/</url>
+			<!-- <url>http://10.0.12.207:8081/nexus/content/groups/public/</url> -->
+			<url>http://121.43.114.178:9002/nexus/content/groups/public/</url>
 		</pluginRepository>
 	</pluginRepositories>
 	<properties>

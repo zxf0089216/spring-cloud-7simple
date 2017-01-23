@@ -14,6 +14,10 @@ import org.springframework.cloud.context.config.annotation.RefreshScope;
 /*
  * @author zhangpeng
  */
+//@RefreshScope
+//@EnableDiscoveryClient
+//@SpringBootApplication
+
 @RefreshScope
 @EnableDiscoveryClient
 @SpringBootApplication
